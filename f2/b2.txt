@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hell heee
+=======
+hii2
+>>>>>>> first
